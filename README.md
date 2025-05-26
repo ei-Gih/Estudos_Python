@@ -2,15 +2,15 @@
 
 1. Calculadora simples (soma, subtração, multiplicação, divisão)
 
-2. Verificar se um número é par ou ímpar
+2. [Verificar se um número é par ou ímpar](https://github.com/ei-Gih/Par_ou_impar)
 
 3. Verificar se um número é primo
 
-4. Tabuada de um número
+4. [Tabuada de um número](https://github.com/ei-Gih/Tabuada)
 
 5. Conversor de temperaturas (Celsius ↔ Fahrenheit)
 
-6. Conversor de moedas (R$ ↔ US$)
+6. [Conversor de moedas (R$ ↔ US$)](https://github.com/ei-Gih/Conversor_de_Moedas)
 
 7. Cálculo do IMC
 

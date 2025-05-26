@@ -2,15 +2,15 @@
 
 1. Calculadora simples (soma, subtração, multiplicação, divisão)
 
-2. Verificar se um número é par ou ímpar
+2. ~~Verificar se um número é par ou ímpar~~
 
 3. Verificar se um número é primo
 
-4. Tabuada de um número
+4. ~~Tabuada de um número~~
 
-5. Conversor de temperaturas (Celsius ↔ Fahrenheit)
+5. ~~Conversor de temperaturas (Celsius ↔ Fahrenheit)~~
 
-6. Conversor de moedas (R$ ↔ US$)
+6. ~~Conversor de moedas (R$ ↔ US$)~~
 
 7. Cálculo do IMC
 
@@ -22,7 +22,7 @@
 
 11. Soma de números pares em um intervalo
 
-12. Média de uma lista de números
+12. ~~Média de uma lista de números~~
 
 13. Calculadora de Bhaskara
 
@@ -36,7 +36,7 @@
 
 18. Simulador de dados (dado de 6 lados)
 
-19. Verificar se um ano é bissexto
+19. ~~Verificar se um ano é bissexto~~
 
 20. Simulador de caixa eletrônico (saque com notas)
 
@@ -58,7 +58,7 @@
 
 29. Criar função que inverta uma string
 
-30. Cálculo de salário com bônus
+30. ~~Cálculo de salário com bônus~~
 
 # 🧠 Intermediário – Listas, Dicionários, Módulos (31 a 60)
 

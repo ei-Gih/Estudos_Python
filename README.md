@@ -1,8 +1,8 @@
 # 🔰 Iniciante – Fundamentos (1 a 30)
 
-1. Calculadora simples (soma, subtração, multiplicação, divisão)
+1. [Calculadora simples (soma, subtração, multiplicação, divisão)](https://github.com/ei-Gih/Calculadora_simples_py) ✅
 
-2. [Verificar se um número é par ou ímpar](https://github.com/ei-Gih/Par_ou_impar)
+2. [Verificar se um número é par ou ímpar](https://github.com/ei-Gih/Par_ou_impar) ✅
 
 3. Verificar se um número é primo
 

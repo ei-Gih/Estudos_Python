@@ -1,8 +1,8 @@
 # 🔰 Iniciante – Fundamentos (1 a 30)
 
-1. Calculadora simples (soma, subtração, multiplicação, divisão)
+1. [Calculadora simples (soma, subtração, multiplicação, divisão)](https://github.com/ei-Gih/Calculadora_simples_py) ✅
 
-2. [Verificar se um número é par ou ímpar](https://github.com/ei-Gih/Par_ou_impar)
+2. [Verificar se um número é par ou ímpar](https://github.com/ei-Gih/Par_ou_impar_py) ✅
 
 3. Verificar se um número é primo
 
@@ -16,7 +16,7 @@
 
 8. Verificar se uma palavra é um palíndromo
 
-9. Contador de vogais e consoantes
+9. [Contador de vogais e consoantes](https://github.com/ei-Gih/Contador_de_Vogais_py/tree/main) ✅
 
 10. Fatorial de um número
 

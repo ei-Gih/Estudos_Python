@@ -4,7 +4,7 @@
 
 2. [Verificar se um número é par ou ímpar](https://github.com/ei-Gih/Par_ou_impar_py) ✅
 
-3. Verificar se um número é primo
+3. [Verificar se um número é primo](https://github.com/ei-Gih/Primo_ou_nao_py) ✅
 
 4. [Tabuada de um número](https://github.com/ei-Gih/Tabuada)
 

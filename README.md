@@ -1,22 +1,22 @@
 # 🔰 Iniciante – Fundamentos (1 a 30)
 
-1. [Calculadora simples (soma, subtração, multiplicação, divisão)](https://github.com/ei-Gih/Calculadora_simples_py) ✅
+1. [Calculadora simples (soma, subtração, multiplicação, divisão)](./Exercicios/Calculadora_simples_py/) ✅
 
-2. [Verificar se um número é par ou ímpar](https://github.com/ei-Gih/Par_ou_impar_py) ✅
+2. [Verificar se um número é par ou ímpar](./Exercicios/Par_ou_impar_py/) ✅
 
-3. [Verificar se um número é primo](https://github.com/ei-Gih/Primo_ou_nao_py) ✅
+3. [Verificar se um número é primo](./Exercicios/Primo_ou_nao_py/) ✅
 
-4. [Tabuada de um número](https://github.com/ei-Gih/Tabuada)
+4. [Tabuada de um número](./Exercicios/Tabuada/) ✅
 
 5. Conversor de temperaturas (Celsius ↔ Fahrenheit)
 
-6. [Conversor de moedas (R$ ↔ US$)](https://github.com/ei-Gih/Conversor_de_Moedas)
+6. [Conversor de moedas (R$ ↔ US$)](./Exercicios/Conversor_de_Moedas/) ✅
 
 7. Cálculo do IMC
 
 8. Verificar se uma palavra é um palíndromo
 
-9. [Contador de vogais e consoantes](https://github.com/ei-Gih/Contador_de_Vogais_py/tree/main) ✅
+9. [Contador de vogais e consoantes](./Exercicios/Contador_de_Vogais_py/) ✅
 
 10. Fatorial de um número
 
